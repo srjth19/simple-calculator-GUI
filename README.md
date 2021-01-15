@@ -24,8 +24,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Files included in the repository
-Apart from the Readme, you can find the source code for this application with a py extenstion where you can observe how application was configured.
-There is also the executable file which you can download and use. Please note that the current version only allows mouse clicks and keyboard key presses are not enabled. This is currently being updated and shall be included in the future patch(es).
+Apart from the Readme, you can find the source code for this application with a py extenstion where you can observe how application was configured. GUI was designed using wxpython library.
+There is also the executable file which you can download and use. Exe file was created using PyInstaller library which was executed in CLI.
+Please note that the current version only allows mouse clicks and keyboard key presses are not enabled. This is currently being updated and shall be included in the future patch(es).
 
 ## References
 [1] Building GUIs with wxPython by Published by Arran Cardnell - https://letscodepython.com/blog/2017/12/27/building-guis-wxpython/
